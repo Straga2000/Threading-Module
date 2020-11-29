@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606610062 source:c:\users\40747\desktop\project\threading module\threading module\main.cpp
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
